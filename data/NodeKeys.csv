@@ -1,0 +1,342 @@
+Session,prefix,Gorilla Protocol names,UniqueName,EN-GB,IT,FR,FR_redirect,TR,CA-FR,JP,DE,US-CAN,IN,IN_redirect,IN_short,CO,CO_Short,GR,AR,AR-Qu-01,AR-Tasks-1,AR-Qu-02,AR-Tasks-2,questionnaire or task name,JP_C2
+1,questionnaire-,Welcome_consent,S1_Welcome,bf7f,bf7f,7b1e,NA,bf7f,7b1e,bf7f,bf7f,bf7f,bf7f,NA,NA,bf7f,bf7f,11oo,bf7f,bf7f,bf7f,bf7f,bf7f,NA,NA
+1,checkpoint,Session1_confinement_Start,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,questionnaire-,ConfinementTracker,S1_ConfinementTrack_r1,oxhg,oxhg,l7nj,l7nj,oxhg,l7nj,oxhg,oxhg,oxhg,oxhg,NA,oxhg,oxhg,oxhg,9jf1,oxhg,NA,NA,NA,NA,NA,NA
+1,questionnaire-,ConfinementTracker,S1_ConfinementTrack_r1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,zovi,NA,NA,NA,NA,NA,NA,NA
+1,questionnaire-,Demographics,S1_Demographics,s8ta,s8ta,z3jr,NA,s8ta,z3jr,s8ta,s8ta,s8ta,s8ta,NA,s8ta,s8ta,s8ta,28fy,s8ta,NA,NA,NA,NA,NA,NA
+1,questionnaire-,General_Instructions,S1_Instructions,nkrh,nkrh,sav9,sav9,nkrh,sav9,nkrh,nkrh,nkrh,nkrh,NA,nkrh,nkrh,nkrh,cabn,nkrh,NA,NA,NA,NA,NA,NA
+1,questionnaire-,Workday,S1_Workday_r1,yeh1,yeh1,7hxh,NA,yeh1,7hxh,yeh1,yeh1,yeh1,yeh1,NA,yeh1,yeh1,yeh1,7zfm,yeh1,NA,NA,NA,NA,NA,NA
+1,questionnaire-,02_UCLA,S1_UCLA,yvjs,yvjs,6kqm,NA,yvjs,6kqm,yvjs,yvjs,yvjs,yvjs,NA,NA,yvjs,NA,mv5l,yvjs,NA,NA,NA,NA,NA,NA
+1,questionnaire-,03_IQ,S1_IQ,omgj,omgj,pg6r,NA,omgj,pg6r,omgj,omgj,omgj,omgj,NA,omgj,omgj,omgj,dgcv,omgj,NA,NA,NA,NA,NA,NA
+1,questionnaire-,04_rMEQ,S1_rMEQ,2wc3,2wc3,vhfb,NA,2wc3,vhfb,2wc3,2wc3,2wc3,2wc3,NA,NA,2wc3,NA,m941,2wc3,NA,NA,NA,NA,NA,NA
+1,questionnaire-,05_ZTPI,S1_ZTPI,ribw,ribw,zw1c,NA,ribw,zw1c,ribw,ribw,ribw,ribw,NA,ribw,ribw,ribw,pzj9,ribw,NA,NA,NA,NA,NA,NA
+1,questionnaire-,06_HADS,S1_HADS_r1,dl8j,dl8j,l1r5,NA,dl8j,l1r5,dl8j,dl8j,dl8j,dl8j,NA,dl8j,dl8j,dl8j,yxav,dl8j,NA,NA,NA,NA,NA,NA
+1,questionnaire-,07a_PSQI,S1_PSQI,xdwk,xdwk,i7b2,NA,xdwk,i7b2,xdwk,xdwk,xdwk,xdwk,NA,xdwk,xdwk,xdwk,veyc,xdwk,NA,NA,NA,NA,NA,NA
+1,questionnaire-,07c_muMCQT,S1_MCQT,sytt,sytt,mjj2,NA,sytt,mjj2,sytt,sytt,sytt,sytt,NA,3de8,sytt,3de8,kb6m,sytt,NA,NA,NA,NA,NA,NA
+1,questionnaire-,08_ASQ,S1_ASQ,jbij,jbij,b6ic,NA,jbij,b6ic,jbij,jbij,jbij,jbij,NA,unhy,unhy,unhy,vla4,jbij,NA,NA,NA,NA,NA,NA
+1,questionnaire-,08_ASQ,S1_ASQ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,jbij,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,questionnaire-,09_BFI-10,S1_BFI,6c6j,6c6j,8sim,NA,6c6j,8sim,6c6j,hns2,6c6j,6c6j,NA,nhnp,nhnp,nhnp,anhx,6c6j,NA,NA,NA,NA,NA,NA
+1,questionnaire-,09_BFI-10,S1_BFI,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6c6j,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,questionnaire-,10_Retrospective_Duration,S1_RetroDuration,ywwq,ywwq,z19v,NA,ywwq,z19v,ywwq,ywwq,ywwq,ywwq,NA,75ik,75ik,75ik,uw7y,ywwq,NA,NA,NA,NA,NA,NA
+1,questionnaire-,10_Retrospective_Duration,S1_RetroDuration,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,ywwq,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,questionnaire-,14_CFC-14-DE,S1_CFC-14,NA,NA,NA,NA,NA,NA,NA,z3zi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,task-,Temporal_landmark,S1_TemporalLandmark_r1,a2s8,a2s8,vufk,NA,a2s8,vufk,a2s8,a2s8,a2s8,a2s8,NA,8xfs,a2s8,8xfs,jt9e,a2s8,NA,NA,NA,NA,NA,NA
+1,task-,Temporal_landmark,S1_TemporalLandmark_r1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8xfs,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,checkpoint,Session1_confinement_Qu01,NA,e6n7,e6n7,e6n7,NA,e6n7,e6n7,e6n7,e6n7,e6n7,e6n7,NA,NA,e6n7,NA,e6n7,e6n7,NA,NA,NA,NA,NA,NA
+1,questionnaire-,Workday,S1_Workday_r2,3b4u,3b4u,vnbb,NA,3b4u,vnbb,3b4u,3b4u,3b4u,3b4u,NA,NA,3b4u,NA,3l44,3b4u,3b4u,NA,NA,NA,NA,NA
+1,questionnaire-,Workday,S1_Workday_r2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,zbs9,NA,NA,NA,NA,NA,NA,NA
+1,questionnaire-,11_ShortSleepQu,S1_ShortSleep_r1,1r6m,1r6m,l4iu,NA,1r6m,l4iu,1r6m,fefi,1r6m,1r6m,NA,NA,1r6m,NA,l43v,1r6m,1r6m,NA,NA,NA,NA,NA
+1,task-,SelfPreference,S1_SelfPref_r1,alpe,alpe,r8lq,NA,alpe,r8lq,alpe,alpe,alpe,alpe,NA,alpe,alpe,alpe,ny2x,alpe,alpe,NA,NA,NA,NA,NA
+1,task-,SelfPreference,S1_SelfPref_r1b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tmq7,NA,NA,tmq7,tmq7,NA,NA,NA,NA,NA
+1,task-,DelayDiscount,S1_DelayDiscount_r1,bjox,bjox,rve1,NA,bjox,rve1,bjox,bjox,bjox,bjox,NA,bjox,bjox,bjox,awp2,bjox,bjox,NA,NA,NA,NA,NA
+1,task-,Tapping_Visual,S1_TapVis_r1,ijae,ijae,73p8,NA,ijae,73p8,ijae,ijae,ijae,ijae,NA,ijae,ijae,ijae,jjv8,ijae,ijae,NA,NA,NA,NA,NA
+1,task-,Tapping,S1_Tapping_r1,tmq7,tmq7,x9hb,NA,tmq7,x9hb,tmq7,tmq7,tmq7,tmq7,NA,NA,NA,NA,pn1f,NA,NA,NA,NA,NA,NA,NA
+1,task-,ImplicitTiming,S1_Implicit_r1,e3ny,e3ny,nlug,NA,e3ny,nlug,e3ny,e3ny,e3ny,e3ny,NA,7v2r,e3ny,7v2r,2vya,e3ny,e3ny,NA,NA,NA,NA,NA
+1,task-,ImplicitTiming,S1_Implicit_r1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,vkpw,NA,NA,NA,NA,NA,NA,NA
+1,task-,Duration_Production_Metacog,S1_Metacog_r1,ctdw,ctdw,qaws,NA,ctdw,qaws,ctdw,ctdw,ctdw,ctdw,NA,ctdw,ctdw,ctdw,wzt9,ctdw,ctdw,NA,NA,NA,NA,NA
+1,task-,Count__SS1a,S1_Count_r1,3o3q,3o3q,nhyq,NA,3o3q,nhyq,3o3q,3o3q,3o3q,3o3q,NA,NA,3o3q,NA,u4nn,3o3q,3o3q,NA,NA,NA,NA,NA
+1,task-,Count__SS2a,S1_Count_r2,ne1s,ne1s,6p44,NA,ne1s,6p44,ne1s,1aj2,ne1s,ne1s,NA,NA,ne1s,NA,4fki,ne1s,ne1s,NA,NA,NA,NA,NA
+1,task-,Countdown_SS1b,S1_CountDown_r1,ryee,ryee,q99e,NA,ryee,q99e,ryee,ryee,ryee,ryee,NA,NA,ryee,NA,wj9h,ryee,ryee,NA,NA,NA,NA,NA
+1,task-,Countdown_SS1b,S1_CountDown_r1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,p48q,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,task-,Countdown_SS2b,S1_CountDown_r2,c86w,c86w,waue,NA,c86w,waue,c86w,91nw,c86w,c86w,NA,NA,c86w,NA,4pcg,c86w,c86w,NA,NA,NA,NA,NA
+1,task-,1back_SS_nback1,S1_1back_r1,l4v8,l4v8,dvif,NA,l4v8,dvif,l4v8,l4v8,l4v8,l4v8,NA,NA,l4v8,NA,pf7q,l4v8,l4v8,NA,NA,NA,NA,NA
+1,task-,3back_SS_nback2,S1_3back_r1,yeyq,yeyq,5me9,NA,yeyq,5me9,yeyq,yeyq,yeyq,yeyq,NA,NA,yeyq,NA,gxff,yeyq,yeyq,NA,NA,NA,NA,NA
+1,checkpoint,Session1_confinement_Tasks_1,NA,adsx,adsx,7u5f,NA,adsx,7u5f,adsx,7u5f,adsx,adsx,NA,adsx,adsx,adsx,7u5f,adsx,adsx,NA,NA,NA,NA,NA
+1,questionnaire-,Workday,S1_Workday_r3,74ch,74ch,z599,z599,74ch,z599,74ch,74ch,74ch,74ch,NA,74ch,74ch,74ch,qbht,74ch,74ch,74ch,NA,NA,NA,NA
+1,questionnaire-,SubjectiveTemporalDistance,S1_SubjTemporalDistance_r1,3de8,3de8,c49r,c49r,3de8,c49r,3de8,3de8,3de8,3de8,NA,l4bw,3de8,l4bw,zscx,3de8,3de8,3de8,NA,NA,NA,NA
+1,questionnaire-,SubjectiveTemporalDistance,S1_SubjTemporalDistance_r1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,l4bw,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,questionnaire-,13_FFA,S1_FFA,anhb,anhb,bi3j,bi3j,anhb,bi3j,anhb,anhb,anhb,anhb,NA,anhb,anhb,anhb,okxy,anhb,anhb,anhb,NA,NA,NA,NA
+1,questionnaire-,12_SelPercept,S1_SelfPercept_r1,llj9,llj9,4161,4161,llj9,4161,llj9,wuae,llj9,llj9,NA,llj9,llj9,llj9,9io2,llj9,llj9,llj9,NA,NA,NA,NA
+1,task-,Temporal_landmark,S1_TemporalLandmark_r2,165l,165l,b9ug,b9ug,165l,b9ug,165l,6e6k,165l,165l,NA,NA,165l,NA,evys,165l,165l,165l,NA,NA,NA,NA
+1,task-,Phonemic_Fluency,S1_Phoneme_r1,e2m7,e2m7,8s3d,8s3d,e2m7,8s3d,e2m7,e2m7,e2m7,e2m7,NA,NA,e2m7,NA,v6c2,e2m7,e2m7,e2m7,NA,NA,NA,NA
+1,task-,Semantic_Fluency,S1_Semantic_r1,7p4z,7p4z,9dzj,9dzj,7p4z,9dzj,7p4z,7p4z,7p4z,7p4z,NA,ym1u,7p4z,ym1u,wdy7,7p4z,7p4z,7p4z,NA,NA,NA,NA
+1,task-,Semantic_Time_Fluency,S1_SemanticTime_r1,r67b,r67b,fth3,fth3,r67b,fth3,r67b,r67b,r67b,r67b,NA,s4pq,r67b,s4pq,9eqw,r67b,r67b,r67b,NA,NA,NA,NA
+1,task-,Semantic_Time_Fluency,S1_SemanticTime_r1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,s4pq,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,task-,Past_Fluency,S1_PastFluency_r1,6q3z,6q3z,7t6g,7t6g,6q3z,7t6g,6q3z,6q3z,6q3z,6q3z,NA,ryee,6q3z,ryee,bs9j,6q3z,6q3z,6q3z,NA,NA,NA,NA
+1,task-,Past_Fluency,S1_PastFluency_r1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,p48c,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,task-,Future_Fluency,S1_FutureFluency_r1,6e6k,6e6k,rwfb,rwfb,6e6k,rwfb,6e6k,165l,6e6k,6e6k,NA,vm4p,6e6k,vm4p,yssm,6e6k,6e6k,6e6k,NA,NA,NA,NA
+1,task-,Future_Fluency,S1_FutureFluency_r1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,vm4p,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,checkpoint,Session1_confinement_Qu02,NA,lzh9,lzh9,9met,9met,lzh9,9met,lzh9,adsx,lzh9,lzh9,NA,NA,lzh9,NA,adsx,lzh9,lzh9,lzh9,NA,NA,NA,NA
+1,questionnaire-,ConfinementTracker,S1_ConfinementTrack_r2,hqfe,hqfe,eeue,eeue,hqfe,eeue,hqfe,hqfe,hqfe,hqfe,NA,NA,hqfe,NA,9312,hqfe,hqfe,hqfe,hqfe,NA,NA,NA
+1,questionnaire-,Workday,S1_Workday_r4,kuiq,kuiq,qdse,qdse,kuiq,qdse,kuiq,kuiq,kuiq,kuiq,NA,NA,kuiq,NA,321o,kuiq,kuiq,kuiq,kuiq,NA,NA,NA
+1,questionnaire-,11_ShortSleepQu,S1_ShortSleep_r2,tti8,tti8,7lex,7lex,tti8,7lex,tti8,tti8,tti8,tti8,NA,1r6m,tti8,1r6m,p7y3,tti8,tti8,tti8,tti8,NA,NA,NA
+1,task-,SelfPreference,S1_SelfPref_r2,xwfu,xwfu,193v,193v,xwfu,193v,xwfu,xwfu,xwfu,xwfu,NA,NA,xwfu,NA,3h5k,xwfu,xwfu,xwfu,xwfu,NA,NA,NA
+1,task-,SelfPreference,S1_SelfPref_r2b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,ctos,ctos,ctos,ctos,NA,NA,NA
+1,task-,DelayDiscount,S1_DelayDiscount_r2,8ecw,8ecw,j3dj,j3dj,8ecw,j3dj,8ecw,8ecw,8ecw,8ecw,NA,NA,8ecw,NA,qtf5,8ecw,8ecw,8ecw,8ecw,NA,NA,NA
+1,task-,Tapping_Visual,S1_TapVis_r2,q1jh,q1jh,yk1x,yk1x,q1jh,yk1x,q1jh,q1jh,q1jh,q1jh,NA,NA,q1jh,NA,id9m,q1jh,q1jh,q1jh,q1jh,NA,NA,NA
+1,task-,Tapping,S1_Tapping_r2,ctos,ctos,x4ug,x4ug,ctos,x4ug,ctos,ctos,ctos,ctos,NA,NA,ctos,NA,9pvu,NA,NA,NA,NA,NA,NA,NA
+1,task-,Tapping,S1_Tapping_r2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1jwi,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,task-,ImplicitTiming,S1_Implicit_r2,7v2r,7v2r,usfq,usfq,7v2r,usfq,7v2r,7v2r,7v2r,7v2r,NA,NA,7v2r,NA,8fvo,7v2r,7v2r,7v2r,7v2r,NA,NA,NA
+1,task-,ImplicitTiming,S1_Implicit_r2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,gcrk,NA,NA,NA,NA,NA,NA,NA
+1,task-,Duration_Production_Metacog,S1_Metacog_r2,yc5s,yc5s,59sj,59sj,yc5s,59sj,yc5s,yc5s,yc5s,yc5s,NA,NA,yc5s,NA,dw1j,yc5s,yc5s,yc5s,yc5s,NA,NA,NA
+1,task-,Count__SS1b,S1_Count_r3,vj3x,vj3x,8l84,8l84,vj3x,8l84,vj3x,vj3x,vj3x,vj3x,NA,NA,vj3x,NA,oopi,vj3x,vj3x,vj3x,vj3x,NA,NA,NA
+1,task-,Count__SS2B,S1_Count_r4,ym1u,ym1u,w4d9,w4d9,ym1u,w4d9,ym1u,3ds6,ym1u,ym1u,NA,NA,ym1u,NA,21bo,ym1u,ym1u,ym1u,ym1u,NA,NA,NA
+1,0,Countdown_SS1a,S1_CountDown_r3,conr,conr,dauo,dauo,conr,dauo,conr,conr,conr,conr,NA,NA,conr,NA,fftn,conr,conr,conr,conr,NA,NA,NA
+1,task-,Countdown_SS2a,S1_CountDown_r4,d4p1,d4p1,o2jt,o2jt,d4p1,o2jt,d4p1,gdpd,d4p1,d4p1,NA,NA,d4p1,NA,lhbw,d4p1,d4p1,d4p1,d4p1,NA,NA,NA
+1,task-,1back_SSnback2,S1_1back_r2,4vn8,4vn8,qva6,qva6,4vn8,qva6,4vn8,4vn8,4vn8,4vn8,NA,NA,4vn8,NA,4wxq,4vn8,4vn8,4vn8,4vn8,NA,NA,NA
+1,task-,3back_SSnback1,S1_3back_r2,56og,56og,cqbj,cqbj,56og,cqbj,56og,56og,56og,56og,NA,NA,56og,NA,bij6,56og,56og,56og,56og,NA,NA,NA
+1,checkpoint,Session1_confinement_Tasks_2,NA,vgns,vgns,vgns,vgns,vgns,vgns,vgns,vgns,vgns,vgns,NA,vgns,vgns,vgns,vgns,vgns,vgns,vgns,vgns,NA,NA,NA
+1,questionnaire-,ConfinementTracker,S1_ConfinementTrack_r3,r8ex,r8ex,wxbm,wxbm,r8ex,wxbm,r8ex,fgmw,r8ex,r8ex,r8ex,NA,r8ex,NA,vf2t,r8ex,r8ex,r8ex,r8ex,r8ex,NA,NA
+1,questionnaire-,Workday,S1_Workday_r5,pwin,pwin,uqwx,uqwx,pwin,uqwx,pwin,jzkd,pwin,pwin,pwin,NA,pwin,NA,aclh,pwin,pwin,pwin,pwin,pwin,NA,NA
+1,questionnaire-,11_ShortSleep,S1_ShortSleep_r3,86gt,86gt,ya2d,ya2d,86gt,ya2d,86gt,8wpw,86gt,86gt,86gt,NA,86gt,NA,ql32,86gt,86gt,86gt,86gt,86gt,NA,NA
+1,task-,SelfPreference,S1_SelfPref_r3,qjlv,qjlv,te58,te58,qjlv,te58,qjlv,5quh,qjlv,qjlv,qjlv,qjlv,qjlv,qjlv,f81m,qjlv,qjlv,qjlv,qjlv,qjlv,NA,NA
+1,task-,SelfPreference,S1_SelfPref_r3b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,elol,elol,elol,elol,elol,NA,NA
+1,task-,DelayDiscount,S1_DelayDiscount_r3,vf7e,vf7e,nu7n,nu7n,vf7e,nu7n,vf7e,vnte,vf7e,vf7e,vf7e,vf7e,vf7e,vf7e,gfx1,vf7e,vf7e,vf7e,vf7e,vf7e,NA,NA
+1,task-,Tapping_Visual,S1_TapVis_r3,p2gz,p2gz,1vlw,1vlw,p2gz,1vlw,p2gz,tpqv,p2gz,p2gz,p2gz,p2gz,p2gz,p2gz,3hpw,p2gz,p2gz,p2gz,p2gz,p2gz,NA,NA
+1,task-,Tapping,S1_Tapping_r3,elol,elol,fxyl,fxyl,elol,fxyl,elol,ihkw,elol,elol,elol,1jwi,elol,1jwi,nwxe,NA,NA,NA,NA,NA,NA,NA
+1,task-,ImplicitTiming,S1_Implicit_r3,rzw7,rzw7,oor3,oor3,rzw7,oor3,rzw7,ny6f,rzw7,rzw7,rzw7,rzw7,rzw7,rzw7,51lh,rzw7,rzw7,rzw7,rzw7,rzw7,NA,NA
+1,task-,Duration_Production_Metacog,S1_Metacog_r3,sz8b,sz8b,f4d3,f4d3,sz8b,f4d3,sz8b,fugt,sz8b,sz8b,sz8b,sz8b,sz8b,sz8b,hayl,sz8b,sz8b,sz8b,sz8b,sz8b,NA,NA
+1,task-,Count__SS3a,S1_Count_r5,1pib,dbrt,6fia,6fia,1pib,6fia,1pib,uoxi,dbrt,1pib,1pib,NA,dbrt,NA,re9t,dbrt,dbrt,dbrt,dbrt,dbrt,NA,NA
+1,task-,Count__SS3b,S1_Count_r6,dbrt,1pib,iw3i,iw3i,dbrt,iw3i,dbrt,7jjw,1pib,dbrt,dbrt,NA,1pib,NA,lyha,1pib,1pib,1pib,1pib,1pib,NA,NA
+1,task-,Countdown_SS3a,S1_CountDown_r5,ipkv,ipkv,nt4w,nt4w,ipkv,nt4w,ipkv,17y9,ipkv,ipkv,ipkv,NA,ipkv,NA,gnvp,ipkv,ipkv,ipkv,ipkv,ipkv,NA,NA
+1,task-,Countdown_SS3b,S1_CountDown_r6,vqd2,vqd2,pxw9,pxw9,vqd2,pxw9,vqd2,52lo,vqd2,vqd2,vqd2,NA,vqd2,NA,7awh,vqd2,vqd2,vqd2,vqd2,vqd2,NA,NA
+1,task-,1back_SSnback1,S1_1back_r3,boh5,boh5,c2l7,c2l7,boh5,c2l7,boh5,uk66,boh5,boh5,boh5,NA,boh5,NA,6fkp,boh5,boh5,boh5,boh5,boh5,NA,NA
+1,task-,3back_SSnback2,S1_3back_r3,rzqj,rzqj,hft7,hft7,rzqj,hft7,rzqj,nmnb,rzqj,rzqj,rzqj,NA,rzqj,NA,4q8x,rzqj,rzqj,rzqj,rzqj,rzqj,NA,NA
+1,checkpoint,Session1_confinement_Tasks_3,NA,ppak,ppak,xwoi,xwoi,ppak,xwoi,ppak,1s99,ppak,ppak,ppak,NA,ppak,NA,o429,ppak,ppak,ppak,ppak,ppak,NA,NA
+1,questionnaire-,Workday,S1_workday_r6,NA,NA,NA,NA,NA,NA,NA,ftjs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,questionnaire-,SubjectiveTemporalDistance,S1_SubjTemporalDistance_r2,pwrb,pwrb,u9bd,NA,pwrb,u9bd,pwrb,pwrb,pwrb,pwrb,pwrb,NA,pwrb,NA,we36,pwrb,pwrb,pwrb,pwrb,pwrb,NA,NA
+1,questionnaire-,06_HADS,S1_HADS_r2,kmm9,kmm9,rh1d,rh1d,kmm9,rh1d,kmm9,kmm9,kmm9,kmm9,kmm9,NA,kmm9,NA,von3,kmm9,kmm9,kmm9,kmm9,kmm9,NA,NA
+1,questionnaire-,07_PSQI-week,S1_PSQI-week,enxm,enxm,2k96,2k96,enxm,2k96,enxm,enxm,enxm,enxm,enxm,NA,enxm,NA,3k6z,enxm,enxm,enxm,enxm,enxm,NA,NA
+1,task-,Temporal_landmark,S1_TemporalLandmark_r3,8wfk,8wfk,j14w,j14w,8wfk,j14w,8wfk,8wfk,8wfk,8wfk,8wfk,NA,8wfk,NA,9i4t,8wfk,8wfk,8wfk,8wfk,8wfk,NA,NA
+1,task-,Phonemic_Fluency,S1_Phoneme_r2,zmty,zmty,psd9,psd9,zmty,psd9,zmty,zmty,zmty,zmty,zmty,NA,zmty,NA,ly8e,zmty,zmty,zmty,zmty,zmty,NA,NA
+1,task-,Semantic_Fluency,S1_Semantic_r2,1gez,1gez,43n3,43n3,1gez,43n3,1gez,1gez,1gez,1gez,1gez,NA,1gez,NA,zvf4,1gez,1gez,1gez,1gez,1gez,NA,NA
+1,task-,Past_Fluency,S1_PastFluency_r2,zwhr,zwhr,adfe,adfe,zwhr,adfe,zwhr,zwhr,zwhr,zwhr,zwhr,conr,zwhr,conr,fyca,zwhr,zwhr,zwhr,zwhr,zwhr,NA,NA
+1,task-,Future_Fluency,S1_FutureFluency_r2,rkl6,rkl6,1eny,1eny,rkl6,1eny,rkl6,rkl6,rkl6,rkl6,rkl6,NA,rkl6,NA,5ugd,rkl6,rkl6,rkl6,rkl6,rkl6,NA,NA
+1,task-,Semantic_Time_Fluency,S1_SemanticTime_r2,l2es,l2es,lxu7,lxu7,l2es,lxu7,l2es,wmv9,l2es,l2es,l2es,NA,l2es,NA,zs1k,l2es,l2es,l2es,l2es,l2es,NA,NA
+1,task-,Semantic_Time_Fluency,S1_SemanticTime_r3,NA,NA,NA,NA,NA,NA,NA,l2es,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,questionnaire-,Continue,S1_Continue,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,dpro,dpro,dpro,NA,NA,NA,NA,NA,NA,NA,NA
+1,questionnaire-,Session1_End,S1_END,7zsd,7zsd,zxi1,zxi1,7zsd,zxi1,7zsd,7zsd,7zsd,7zsd,7zsd,7zsd,7zsd,7zsd,NA,7zsd,7zsd,7zsd,7zsd,7zsd,NA,NA
+1,questionnaire-,Session1_End,S1_END,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6vc9,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,questionnaire-,NA,S2_Welcome,NA,bf7f,bf7f,NA,bf7f,NA,bf7f,NA,NA,bf7f,NA,NA,NA,NA,wgv5,NA,NA,NA,NA,NA,00_Bienvenu_Consent,NA
+2,questionnaire-,NA,S2_Instructions,nkrh,nkrh,nkrh,NA,nkrh,NA,nkrh,NA,NA,nkrh,NA,NA,NA,NA,ncfw,NA,NA,NA,NA,NA,General Instructions,NA
+2,questionnaire-,NA,S2_ConfinementTrack,oxhg,oxhg,oxhg,NA,oxhg,NA,oxhg,NA,NA,oxhg,NA,NA,NA,NA,p79x,NA,NA,NA,NA,NA,Confinement Tracker,NA
+2,questionnaire-,NA,S2_Workday_r1,yeh1,yeh1,yeh1,NA,yeh1,NA,yeh1,NA,NA,yeh1,NA,NA,NA,NA,gif5,NA,NA,NA,NA,NA,Workday,NA
+2,questionnaire-,NA,S2_UCLA,yvjs,yvjs,yvjs,NA,yvjs,NA,yvjs,NA,NA,yvjs,NA,NA,NA,NA,2l5y,NA,NA,NA,NA,NA,02_UCLA,NA
+2,questionnaire-,NA,S2_IQ,omgj,omgj,omgj,NA,omgj,NA,omgj,NA,NA,omgj,NA,NA,NA,NA,qw7f,NA,NA,NA,NA,NA,03_IQ,NA
+2,questionnaire-,NA,S2_HADS,h3wo,h3wo,h3wo,NA,h3wo,NA,h3wo,NA,NA,h3wo,NA,NA,NA,NA,js3i,NA,NA,NA,NA,NA,06_HADS,NA
+2,questionnaire-,NA,S2_PSQI-week,dv84,dv84,dv84,NA,dv84,NA,dv84,NA,NA,dv84,NA,NA,NA,NA,56v8,NA,NA,NA,NA,NA,07a_PSQI-week,NA
+2,questionnaire-,NA,S2_RetroDuration,ywwq,ywwq,ywwq,NA,ywwq,NA,ywwq,NA,NA,ywwq,NA,NA,NA,NA,sghl,NA,NA,NA,NA,NA,10_Retrospective Duration,NA
+2,task-,NA,S2_TemporalLandmark_r1,a2s8,a2s8,a2s8,NA,a2s8,NA,a2s8,NA,NA,a2s8,NA,NA,NA,NA,tb4j,NA,NA,NA,NA,NA,Temporal landmark,NA
+2,questionnaire-,NA,S2_rMEQ,NA,NA,NA,NA,NA,NA,kovs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04_rMEQ,NA
+2,questionnaire-,NA,S2_MCQT,NA,NA,NA,NA,NA,NA,nkpo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07c_muMCQT,NA
+2,checkpoint,NA,NA,e6n7,e6n7,e6n7,NA,e6n7,NA,e6n7,NA,NA,e6n7,NA,NA,NA,NA,e6n7,NA,NA,NA,NA,NA,Session2_+10days_Qu01,NA
+2,questionnaire-,NA,S2_Workday_r2,3b4u,3b4u,3b4u,NA,3b4u,NA,3b4u,NA,NA,3b4u,NA,NA,NA,NA,2q4f,NA,NA,NA,NA,NA,Workday,NA
+2,questionnaire-,NA,S2_ShortSleep_r1,1r6m,1r6m,1r6m,NA,1r6m,NA,1r6m,NA,NA,1r6m,NA,NA,NA,NA,xy36,NA,NA,NA,NA,NA,11_ShortSleepQu,NA
+2,task-,NA,S2_SelfPref_r1,alpe,alpe,alpe,NA,alpe,NA,NA,NA,NA,alpe,NA,NA,NA,NA,rs2s,NA,NA,NA,NA,NA,SelfPreference,NA
+2,task-,NA,S2_DelayDiscount_r1,bjox,bjox,bjox,NA,bjox,NA,bjox,NA,NA,bjox,NA,NA,NA,NA,11ik,NA,NA,NA,NA,NA,DelayDiscount,NA
+2,task-,NA,S2_TapVis_r1,ijae,ijae,ijae,NA,ijae,NA,ijae,NA,NA,ijae,NA,NA,NA,NA,5owd,NA,NA,NA,NA,NA,Tapping Visual,NA
+2,task-,NA,S2_Tapping_r1,tmq7,tmq7,tmq7,NA,tmq7,NA,e284,NA,NA,tmq7,NA,NA,NA,NA,mmg9,NA,NA,NA,NA,NA,Tapping,NA
+2,task-,NA,S2_Implicit_r1,e3ny,e3ny,e3ny,NA,e3ny,NA,8tq3,NA,NA,e3ny,NA,NA,NA,NA,5k5m,NA,NA,NA,NA,NA,ImplicitTiming,NA
+2,task-,NA,S2_Metacog_r1,ctdw,ctdw,ctdw,NA,ctdw,NA,ctdw,NA,NA,ctdw,NA,NA,NA,NA,odf2,NA,NA,NA,NA,NA,Duration Production Metacog,NA
+2,task-,NA,S2_Count_r1,3o3q,3o3q,3o3q,NA,3o3q,NA,3o3q,NA,NA,3o3q,NA,NA,NA,NA,za9r,NA,NA,NA,NA,NA,Count  SS4a,NA
+2,task-,NA,S2_Count_r2,ne1s,ne1s,ne1s,NA,ne1s,NA,165l,NA,NA,ne1s,NA,NA,NA,NA,ddxz,NA,NA,NA,NA,NA,Count  SS5a,NA
+2,task-,NA,S2_CountDown_r1,c86w,c86w,c86w,NA,c86w,NA,zv1p,NA,NA,c86w,NA,NA,NA,NA,ihb7,NA,NA,NA,NA,NA,Countdown SS4b,NA
+2,task-,NA,S2_CountDown_r2,ryee,ryee,ryee,NA,ryee,NA,ryee,NA,NA,ryee,NA,NA,NA,NA,6uta,NA,NA,NA,NA,NA,Countdown SS5b,NA
+2,task-,NA,S2_1back_r1,l4v8,l4v8,l4v8,NA,l4v8,NA,l4v8,NA,NA,l4v8,NA,NA,NA,NA,2c6n,NA,NA,NA,NA,NA,1back SS nback3,NA
+2,task-,NA,S2_3back_r1,yeyq,sezs,yeyq,NA,yeyq,NA,yeyq,NA,NA,yeyq,NA,NA,NA,NA,5foz,NA,NA,NA,NA,NA,3back SS nback4,NA
+2,checkpoint,NA,NA,adsx,adsx,adsx,NA,adsx,NA,adsx,NA,NA,adsx,NA,NA,NA,NA,adsx,NA,NA,NA,NA,NA,Session2_+10days_Tasks_1,NA
+2,questionnaire-,NA,S2_Workday_r3,74ch,74ch,74ch,NA,74ch,NA,74ch,NA,NA,74ch,NA,NA,NA,NA,5nn6,NA,NA,NA,NA,NA,Workday,NA
+2,questionnaire-,NA,S2_SubjTemporalDistance_r1,3de8,3de8,3de8,NA,3de8,NA,3de8,NA,NA,3de8,NA,NA,NA,NA,64ub,NA,NA,NA,NA,NA,SubjectiveTemporalDistance,NA
+2,questionnaire-,NA,S2_FFA,anhb,anhb,anhb,NA,anhb,NA,anhb,NA,NA,anhb,NA,NA,NA,NA,hxwm,NA,NA,NA,NA,NA,13_FFA,NA
+2,questionnaire-,NA,S2_SelfPercept,llj9,llj9,llj9,NA,llj9,NA,llj9,NA,NA,llj9,NA,NA,NA,NA,36ng,NA,NA,NA,NA,NA,12_SelPercept,NA
+2,task-,NA,S2_TemporalLandmark_r2,165l,165l,165l,NA,165l,NA,NA,NA,NA,165l,NA,NA,NA,NA,nnk4,NA,NA,NA,NA,NA,Temporal landmark,NA
+2,task-,NA,S2_Phoneme_r1,e2m7,e2m7,e2m7,NA,e2m7,NA,e2m7,NA,NA,e2m7,NA,NA,NA,NA,l1m5,NA,NA,NA,NA,NA,Phonemic Fluency,NA
+2,task-,NA,S2_Semantic_r1,7p4z,7p4z,7p4z,NA,7p4z,NA,7p4z,NA,NA,7p4z,NA,NA,NA,NA,b4cc,NA,NA,NA,NA,NA,Semantic Fluency,NA
+2,task-,NA,S2_SemanticTime_r1,r67b,r67b,r67b,NA,r67b,NA,r67b,NA,NA,r67b,NA,NA,NA,NA,texa,NA,NA,NA,NA,NA,Semantic Time Fluency,NA
+2,task-,NA,S2_PastFluency_r1,6q3z,6q3z,6q3z,NA,6q3z,NA,6q3z,NA,NA,6q3z,NA,NA,NA,NA,a6gr,NA,NA,NA,NA,NA,Past Fluency,NA
+2,task-,NA,S2_FutureFluency_r1,6e6k,6e6k,6e6k,NA,6e6k,NA,6e6k,NA,NA,6e6k,NA,NA,NA,NA,qo56,NA,NA,NA,NA,NA,Future Fluency,NA
+2,checkpoint,NA,NA,lzh9,lzh9,lzh9,NA,lzh9,NA,lzh9,NA,NA,lzh9,NA,NA,NA,NA,lzh9,NA,NA,NA,NA,NA,Session2_+10days_Qu02,NA
+2,questionnaire-,NA,S2_Workday_r4,kuiq,kuiq,kuiq,NA,kuiq,NA,kuiq,NA,NA,NA,NA,NA,NA,NA,jvjh,NA,NA,NA,NA,NA,Workday,NA
+2,questionnaire-,NA,S2_ShortSleep_r2,tti8,tti8,tti8,NA,tti8,NA,NA,NA,NA,NA,NA,NA,NA,NA,58r8,NA,NA,NA,NA,NA,11_ShortSleepQu,NA
+2,task-,NA,S2_SelfPref_r2,xwfu,xwfu,xwfu,NA,xwfu,NA,xwfu,NA,NA,NA,NA,NA,NA,NA,6wh2,NA,NA,NA,NA,NA,SelfPreference,NA
+2,task-,NA,S2_DelayDiscount_r2,8ecw,8ecw,8ecw,NA,8ecw,NA,NA,NA,NA,NA,NA,NA,NA,NA,llul,NA,NA,NA,NA,NA,DelayDiscount,NA
+2,task-,NA,S2_TapVis_r2,q1jh,q1jh,q1jh,NA,q1jh,NA,6tzo,NA,NA,NA,NA,NA,NA,NA,68z9,NA,NA,NA,NA,NA,Tapping Visual,NA
+2,task-,NA,S2_Tapping_r2,ctos,ctos,ctos,NA,ctos,NA,ctos,NA,NA,NA,NA,NA,NA,NA,15ch,NA,NA,NA,NA,NA,Tapping,NA
+2,task-,NA,S2_Implicit_r2,7v2r,7v2r,7v2r,NA,7v2r,NA,7v2r,NA,NA,NA,NA,NA,NA,NA,seh3,NA,NA,NA,NA,NA,ImplicitTiming,NA
+2,task-,NA,S2_Metacog_r2,yc5s,yc5s,yc5s,NA,yc5s,NA,yc5s,NA,NA,NA,NA,NA,NA,NA,7dfd,NA,NA,NA,NA,NA,Duration Production Metacog,NA
+2,task-,NA,S2_Count_r3,vj3x,vj3x,vj3x,NA,vj3x,NA,vj3x,NA,NA,NA,NA,NA,NA,NA,tf2p,NA,NA,NA,NA,NA,Count  SS4b,NA
+2,task-,NA,S2_Count_r4,ym1u,ym1u,ym1u,NA,ym1u,NA,NA,NA,NA,NA,NA,NA,NA,NA,ry68,NA,NA,NA,NA,NA,Count  SS5b,NA
+2,task-,NA,S2_CountDown_r3,d4p1,conr,d4p1,NA,d4p1,NA,NA,NA,NA,NA,NA,NA,NA,NA,84u3,NA,NA,NA,NA,NA,Countdown SS4a,NA
+2,task-,NA,S2_CountDown_r4,conr,d4p1,conr,NA,conr,NA,conr,NA,NA,NA,NA,NA,NA,NA,xkih,NA,NA,NA,NA,NA,Countdown SS5a,NA
+2,task-,NA,S2_1back_r2,4vn8,4vn8,4vn8,NA,4vn8,NA,4vn8,NA,NA,NA,NA,NA,NA,NA,35op,NA,NA,NA,NA,NA,1back SSnback4,NA
+2,task-,NA,S2_3back_r2,56og,56og,56og,NA,56og,NA,56og,NA,NA,NA,NA,NA,NA,NA,k3pi,NA,NA,NA,NA,NA,3back SSnback3,NA
+2,checkpoint,NA,NA,vgns,vgns,vgns,NA,vgns,NA,vgns,NA,NA,NA,NA,NA,NA,NA,vgns,NA,NA,NA,NA,NA,Session2_+10days_Tasks_2,NA
+2,questionnaire-,NA,S2_Workday_r5,pwin,pwin,pwin,NA,pwin,NA,pwin,NA,NA,pwin,NA,NA,NA,NA,oexj,NA,NA,NA,NA,NA,Workday,NA
+2,questionnaire-,NA,S2_ShortSleep_r3,86gt,86gt,86gt,NA,86gt,NA,86gt,NA,NA,86gt,NA,NA,NA,NA,m8p8,NA,NA,NA,NA,NA,11_ShortSleep,NA
+2,task-,NA,S2_SelfPref_r3,qjlv,qjlv,qjlv,NA,qjlv,NA,qjlv,NA,NA,qjlv,NA,NA,NA,NA,96ql,NA,NA,NA,NA,NA,SelfPreference,NA
+2,task-,NA,S2_DelayDiscount_r3,vf7e,vf7e,vf7e,NA,vf7e,NA,vf7e,NA,NA,vf7e,NA,NA,NA,NA,1hdx,NA,NA,NA,NA,NA,DelayDiscount,NA
+2,task-,NA,S2_TapVis_r3,p2gz,p2gz,p2gz,NA,p2gz,NA,p2gz,NA,NA,p2gz,NA,NA,NA,NA,7lo4,NA,NA,NA,NA,NA,Tapping Visual,NA
+2,task-,NA,S2_Tapping_r3,elol,elol,elol,NA,elol,NA,elol,NA,NA,elol,NA,NA,NA,NA,calp,NA,NA,NA,NA,NA,Tapping,NA
+2,task-,NA,S2_Implicit_r3,rzw7,rzw7,rzw7,NA,rzw7,NA,rzw7,NA,NA,rzw7,NA,NA,NA,NA,eeb2,NA,NA,NA,NA,NA,ImplicitTiming,NA
+2,task-,NA,S2_Metacog_r3,sz8b,sz8b,sz8b,NA,sz8b,NA,lu1j,NA,NA,sz8b,NA,NA,NA,NA,k5wo,NA,NA,NA,NA,NA,Duration Production Metacog,NA
+2,task-,NA,S2_Count_r5,dbrt,dbrt,dbrt,NA,dbrt,NA,NA,NA,NA,dbrt,NA,NA,NA,NA,6flv,NA,NA,NA,NA,NA,Count  SS6a,NA
+2,task-,NA,S2_Count_r6,1pib,1pib,1pib,NA,1pib,NA,NA,NA,NA,1pib,NA,NA,NA,NA,wi58,NA,NA,NA,NA,NA,Count  SS6b,NA
+2,task-,NA,S2_CountDown_r5,ipkv,ipkv,ipkv,NA,ipkv,NA,NA,NA,NA,ipkv,NA,NA,NA,NA,3x9g,NA,NA,NA,NA,NA,Countdown SS6a,NA
+2,task-,NA,S2_CountDown_r6,vqd2,vqd2,vqd2,NA,vqd2,NA,NA,NA,NA,vqd2,NA,NA,NA,NA,bksm,NA,NA,NA,NA,NA,Countdown SS6b,NA
+2,task-,NA,S2_1back_r3,boh5,boh5,boh5,NA,boh5,NA,boh5,NA,NA,boh5,NA,NA,NA,NA,3ded,NA,NA,NA,NA,NA,1back SSnback5,NA
+2,task-,NA,S2_3back_r3,rzqj,rzqj,rzqj,NA,rzqj,NA,rzqj,NA,NA,rzqj,NA,NA,NA,NA,t2ss,NA,NA,NA,NA,NA,3back SSnback5,NA
+2,checkpoint,NA,NA,ppak,ppak,ppak,NA,ppak,NA,ppak,NA,NA,ppak,NA,NA,NA,NA,ppak,NA,NA,NA,NA,NA,Session2_+10days_Tasks_3,NA
+2,questionnaire-,NA,S2_SubjTemporalDistance_r2,pwrb,pwrb,pwrb,NA,pwrb,NA,pwrb,NA,NA,pwrb,NA,NA,NA,NA,xbr7,NA,NA,NA,NA,NA,-JP (shortenned),NA
+2,task-,NA,S2_TemporalLandmark_r3,8wfk,8wfk,8wfk,NA,8wfk,NA,8wfk,NA,NA,8wfk,NA,NA,NA,NA,drtu,NA,NA,NA,NA,NA,Temporal landmark,NA
+2,task-,NA,S2_Phoneme_r2,zmty,zmty,zmty,NA,zmty,NA,zmty,NA,NA,zmty,NA,NA,NA,NA,y8bo,NA,NA,NA,NA,NA,Phonemic Fluency,NA
+2,task-,NA,S2_Semantic_r2,1gez,1gez,4cn8,NA,1gez,NA,1gez,NA,NA,1gez,NA,NA,NA,NA,2sir,NA,NA,NA,NA,NA,Semantic Fluency,NA
+2,task-,NA,S2_PastFluency_r2,zwhr,zwhr,zwhr,NA,zwhr,NA,zwhr,NA,NA,zwhr,NA,NA,NA,NA,xnuc,NA,NA,NA,NA,NA,Past Fluency,NA
+2,task-,NA,S2_FutureFluency_r2,rkl6,rkl6,rkl6,NA,rkl6,NA,rkl6,NA,NA,rkl6,NA,NA,NA,NA,zfqq,NA,NA,NA,NA,NA,Future Fluency,NA
+2,task-,NA,S2_SemanticTime_r2,l2es,l2es,l2es,NA,l2es,NA,l2es,NA,NA,l2es,NA,NA,NA,NA,91mi,NA,NA,NA,NA,NA,Semantic Time Fluency,NA
+2,questionnaire-,NA,S2_END,7zsd,NA,7zsd,NA,NA,NA,7zsd,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Session2_END,NA
+3,questionnaire-,NA,S3_Welcome,NA,bf7f,bf7f,NA,bf7f,NA,bf7f,NA,NA,NA,NA,NA,NA,NA,jl27,NA,NA,NA,NA,NA,00_Bienvenu_Consent,NA
+3,checkpoint,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Session3_+3months,NA
+3,questionnaire-,NA,S3_ConfinementTrack,NA,oxhg,oxhg,NA,oxhg,NA,oxhg,NA,NA,NA,NA,NA,NA,NA,w7fu,NA,NA,NA,NA,NA,ConfinementTracker,NA
+3,questionnaire-,NA,S3_Instructions,NA,nkrh,nkrh,NA,nkrh,NA,nkrh,NA,NA,NA,NA,NA,NA,NA,e58i,NA,NA,NA,NA,NA,General_Instructions,NA
+3,questionnaire-,NA,S3_Workday_r1,NA,yeh1,yeh1,NA,yeh1,NA,yeh1,NA,NA,NA,NA,NA,NA,NA,8xd1,NA,NA,NA,NA,NA,Workday,NA
+3,questionnaire-,NA,S3_UCLA,NA,yvjs,yvjs,NA,NA,NA,yvjs,NA,NA,NA,NA,NA,NA,NA,fk4e,NA,NA,NA,NA,NA,02_UCLA,NA
+3,questionnaire-,NA,S3_HADS_r1,NA,h3wo,h3wo,NA,h3wo,NA,h3wo,NA,NA,NA,NA,NA,NA,NA,pyk6,NA,NA,NA,NA,NA,06_HADS,NA
+3,questionnaire-,NA,S3_PSQI,NA,NA,omgj,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07a_PSQI,NA
+3,questionnaire-,NA,S3_MCQT,NA,bc7r,yn6b,NA,bc7r,NA,nkpo,NA,NA,NA,NA,NA,NA,NA,btvj,NA,NA,NA,NA,NA,07c_muMCQT,NA
+3,questionnaire-,NA,S3_RetroDuration,NA,ywwq,ywwq,NA,ywwq,NA,ywwq,NA,NA,NA,NA,NA,NA,NA,238y,NA,NA,NA,NA,NA,10_Retrospective_Duration,NA
+3,task-,NA,S3_TemporalLandmark_r1,NA,a2s8,a2s8,NA,a2s8,NA,a2s8,NA,NA,NA,NA,NA,NA,NA,cgub,NA,NA,NA,NA,NA,Temporal landmark,NA
+3,checkpoint,NA,NA,NA,NA,e6n7,NA,e6n7,NA,e6n7,NA,NA,NA,NA,NA,NA,NA,e6n7,NA,NA,NA,NA,NA,Session3_+3months_Qu01,NA
+3,questionnaire-,NA,S3_Workday_r2,NA,3b4u,3b4u,NA,3b4u,NA,3b4u,NA,NA,NA,NA,NA,NA,NA,hp7f,NA,NA,NA,NA,NA,Workday,NA
+3,questionnaire-,NA,S3_ShortSleep_r1,NA,1r6m,1r6m,NA,1r6m,NA,1r6m,NA,NA,NA,NA,NA,NA,NA,94aq,NA,NA,NA,NA,NA,11_ShortSleepQu,NA
+3,task-,NA,S3_SelfPref_r1,NA,alpe,alpe,NA,alpe,NA,NA,NA,NA,NA,NA,NA,NA,NA,sr37,NA,NA,NA,NA,NA,SelfPreference,NA
+3,task-,NA,S3_DelayDiscount_r1,NA,bjox,bjox,NA,bjox,NA,bjox,NA,NA,NA,NA,NA,NA,NA,r3is,NA,NA,NA,NA,NA,DelayDiscount,NA
+3,task-,NA,S3_TapVis_r1,NA,ijae,ijae,NA,ijae,NA,ijae,NA,NA,NA,NA,NA,NA,NA,a2i4,NA,NA,NA,NA,NA,Tapping Visual,NA
+3,task-,NA,S3_Tapping_r1,NA,tmq7,tmq7,NA,tmq7,NA,e284,NA,NA,NA,NA,NA,NA,NA,7hrl,NA,NA,NA,NA,NA,Tapping,NA
+3,task-,NA,S3_Implicit_r1,NA,e3ny,e3ny,NA,e3ny,NA,7v2r,NA,NA,NA,NA,NA,NA,NA,t1ux,NA,NA,NA,NA,NA,ImplicitTiming,NA
+3,task-,NA,S3_Metacog_r1,NA,ctdw,ctdw,NA,ctdw,NA,ctdw,NA,NA,NA,NA,NA,NA,NA,2dkg,NA,NA,NA,NA,NA,Duration Production Metacog,NA
+3,task-,NA,S3_Count_r1,NA,3o3q,3o3q,NA,3o3q,NA,3o3q,NA,NA,NA,NA,NA,NA,NA,gyyd,NA,NA,NA,NA,NA,Count  SS7a,NA
+3,task-,NA,S3_Count_r2,NA,ne1s,ne1s,NA,ne1s,NA,165l,NA,NA,NA,NA,NA,NA,NA,s7vo,NA,NA,NA,NA,NA,Count  SS8a,NA
+3,task-,NA,S3_CountDown_r1,NA,ryee,ryee,NA,ryee,NA,ryee,NA,NA,NA,NA,NA,NA,NA,2851,NA,NA,NA,NA,NA,Countdown SS7b,NA
+3,task-,NA,S3_CountDown_r2,NA,c86w,c86w,NA,c86w,NA,zv1p,NA,NA,NA,NA,NA,NA,NA,si4z,NA,NA,NA,NA,NA,Countdown SS8b,NA
+3,task-,NA,S3_1back_r1,NA,l4v8,l4v8,NA,l4v8,NA,l4v8,NA,NA,NA,NA,NA,NA,NA,an3h,NA,NA,NA,NA,NA,1back SS nback1,NA
+3,task-,NA,S3_3back_r1,NA,yeyq,yeyq,NA,yeyq,NA,yeyq,NA,NA,NA,NA,NA,NA,NA,m542,NA,NA,NA,NA,NA,3back SS nback2,NA
+3,checkpoint,NA,NA,NA,NA,adsx,NA,adsx,NA,adsx,NA,NA,NA,NA,NA,NA,NA,adsx,NA,NA,NA,NA,NA,Session3_+3months_Tasks_1,NA
+3,questionnaire-,NA,S3_Workday_r3,NA,74ch,74ch,NA,74ch,NA,74ch,NA,NA,NA,NA,NA,NA,NA,r3ib,NA,NA,NA,NA,NA,Workday,NA
+3,questionnaire-,NA,S3_SubjTemporalDistance_r1,NA,3de8,3de8,NA,3de8,NA,3de8,NA,NA,NA,NA,NA,NA,NA,hfrq,NA,NA,NA,NA,NA,SubjectiveTemporalDistance,NA
+3,questionnaire-,NA,S3_FFA,NA,anhb,anhb,NA,anhb,NA,anhb,NA,NA,NA,NA,NA,NA,NA,qvnm,NA,NA,NA,NA,NA,13_FFA,NA
+3,task-,NA,S3_TemporalLandmark_r2,NA,165l,165l,NA,165l,NA,NA,NA,NA,NA,NA,NA,NA,NA,y4cm,NA,NA,NA,NA,NA,Temporal landmark,NA
+3,task-,NA,S3_Phoneme_r1,NA,e2m7,missing,NA,e2m7,NA,e2m7,NA,NA,NA,NA,NA,NA,NA,pdr9,NA,NA,NA,NA,NA,Phonemic Fluency,NA
+3,task-,NA,S3_Semantic_r1,NA,7p4z,e2m7,NA,7p4z,NA,7p4z,NA,NA,NA,NA,NA,NA,NA,i3m2,NA,NA,NA,NA,NA,Semantic Fluency,NA
+3,task-,NA,S3_Semantic_r1b,NA,NA,7p4z,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Semantic Fluency,NA
+3,task-,NA,S3_SemanticTime_r1,NA,r67b,r67b,NA,r67b,NA,r67b,NA,NA,NA,NA,NA,NA,NA,o6o2,NA,NA,NA,NA,NA,Semantic Time Fluency,NA
+3,task-,NA,S3_PastFluency_r1,NA,6q3z,6q3z,NA,6q3z,NA,6q3z,NA,NA,NA,NA,NA,NA,NA,7dr7,NA,NA,NA,NA,NA,Past Fluency,NA
+3,task-,NA,S3_FutureFluency_r1,NA,6e6k,6e6k,NA,6e6k,NA,6e6k,NA,NA,NA,NA,NA,NA,NA,dz9y,NA,NA,NA,NA,NA,Future Fluency,NA
+3,checkpoint,NA,NA,NA,NA,lzh9,NA,lzh9,NA,lzh9,NA,NA,NA,NA,NA,NA,NA,lzh9,NA,NA,NA,NA,NA,Session3_+3months_Qu02,NA
+3,questionnaire-,NA,S3_Workday_r4,NA,kuiq,kuiq,NA,kuiq,NA,kuiq,NA,NA,NA,NA,NA,NA,NA,847z,NA,NA,NA,NA,NA,Workday,NA
+3,questionnaire-,NA,S3_ShortSleep_r2,NA,tti8,tti8,NA,tti8,NA,NA,NA,NA,NA,NA,NA,NA,NA,vtjb,NA,NA,NA,NA,NA,11_ShortSleepQu,NA
+3,task-,NA,S3_SelfPref_r2,NA,xwfu,xwfu,NA,xwfu,NA,xwfu,NA,NA,NA,NA,NA,NA,NA,6mdv,NA,NA,NA,NA,NA,SelfPreference,NA
+3,task-,NA,S3_DelayDiscount_r2,NA,8ecw,8ecw,NA,8ecw,NA,NA,NA,NA,NA,NA,NA,NA,NA,e9sy,NA,NA,NA,NA,NA,DelayDiscount,NA
+3,task-,NA,S3_TapVis_r2,NA,q1jh,q1jh,NA,q1jh,NA,6tzo,NA,NA,NA,NA,NA,NA,NA,8bgn,NA,NA,NA,NA,NA,Tapping Visual,NA
+3,task-,NA,S3_Tapping_r2,NA,ctos,ctos,NA,ctos,NA,ctos,NA,NA,NA,NA,NA,NA,NA,9msd,NA,NA,NA,NA,NA,Tapping,NA
+3,task-,NA,S3_Implicit_r2,NA,7v2r,7v2r,NA,7v2r,NA,rzw7,NA,NA,NA,NA,NA,NA,NA,gojo,NA,NA,NA,NA,NA,ImplicitTiming,NA
+3,task-,NA,S3_Metacog_r2,NA,yc5s,yc5s,NA,yc5s,NA,yc5s,NA,NA,NA,NA,NA,NA,NA,pi5g,NA,NA,NA,NA,NA,Duration Production Metacog,NA
+3,task-,NA,S3_Count_r3,NA,vj3x,ym1u,NA,vj3x,NA,vj3x,NA,NA,NA,NA,NA,NA,NA,qczu,NA,NA,NA,NA,NA,Count  SS7b,NA
+3,task-,NA,S3_Count_r4,NA,ym1u,vj3x,NA,ym1u,NA,NA,NA,NA,NA,NA,NA,NA,NA,dmvd,NA,NA,NA,NA,NA,Count  SS8b,NA
+3,task-,NA,S3_CountDown_r3,NA,conr,d4p1,NA,d4p1,NA,NA,NA,NA,NA,NA,NA,NA,NA,tdgb,NA,NA,NA,NA,NA,Countdown SS7a,NA
+3,task-,NA,S3_CountDown_r4,NA,d4p1,conr,NA,conr,NA,conr,NA,NA,NA,NA,NA,NA,NA,n61z,NA,NA,NA,NA,NA,Countdown SS8a,NA
+3,task-,NA,S3_1back_r2,NA,4vn8,4vn8,NA,4vn8,NA,4vn8,NA,NA,NA,NA,NA,NA,NA,sbmz,NA,NA,NA,NA,NA,1back SSnback2,NA
+3,task-,NA,S3_3back_r2,NA,56og,56og,NA,56og,NA,56og,NA,NA,NA,NA,NA,NA,NA,z33y,NA,NA,NA,NA,NA,3back SSnback1,NA
+3,checkpoint,NA,NA,NA,NA,vgns,NA,vgns,NA,vgns,NA,NA,NA,NA,NA,NA,NA,vgns,NA,NA,NA,NA,NA,Session3_+3months_Tasks_2,NA
+3,questionnaire-,NA,S3_Workday_r5,NA,pwin,pwin,NA,pwin,NA,pwin,NA,NA,NA,NA,NA,NA,NA,dn7m,NA,NA,NA,NA,NA,Workday,NA
+3,questionnaire-,NA,S3_ShortSleep_r3,NA,86gt,86gt,NA,86gt,NA,86gt,NA,NA,NA,NA,NA,NA,NA,59xs,NA,NA,NA,NA,NA,11_ShortSleep,NA
+3,task-,NA,S3_SelfPref_r3,NA,qjlv,qjlv,NA,qjlv,NA,qjlv,NA,NA,NA,NA,NA,NA,NA,fvhe,NA,NA,NA,NA,NA,SelfPreference,NA
+3,task-,NA,S3_DelayDiscount_r3,NA,vf7e,vf7e,NA,vf7e,NA,vf7e,NA,NA,NA,NA,NA,NA,NA,tg6e,NA,NA,NA,NA,NA,DelayDiscount,NA
+3,task-,NA,S3_TapVis_r3,NA,p2gz,p2gz,NA,p2gz,NA,p2gz,NA,NA,NA,NA,NA,NA,NA,c3qc,NA,NA,NA,NA,NA,Tapping Visual,NA
+3,task-,NA,S3_Tapping_r3,NA,elol,elol,NA,elol,NA,elol,NA,NA,NA,NA,NA,NA,NA,bu8b,NA,NA,NA,NA,NA,Tapping,NA
+3,task-,NA,S3_Implicit_r3,NA,rzw7,rzw7,NA,rzw7,NA,8tq3,NA,NA,NA,NA,NA,NA,NA,focm,NA,NA,NA,NA,NA,ImplicitTiming,NA
+3,task-,NA,S3_Metacog_r3,NA,sz8b,sz8b,NA,sz8b,NA,lu1j,NA,NA,NA,NA,NA,NA,NA,swyr,NA,NA,NA,NA,NA,Duration Production Metacog,NA
+3,task-,NA,S3_Count_r5,NA,dbrt,dbrt,NA,dbrt,NA,NA,NA,NA,NA,NA,NA,NA,NA,l63q,NA,NA,NA,NA,NA,Count  SS9a,NA
+3,task-,NA,S3_Count_r6,NA,1pib,1pib,NA,1pib,NA,NA,NA,NA,NA,NA,NA,NA,NA,3ry7,NA,NA,NA,NA,NA,Count  SS9b,NA
+3,task-,NA,S3_CountDown_r5,NA,ipkv,ipkv,NA,vqd2,NA,NA,NA,NA,NA,NA,NA,NA,NA,gcbx,NA,NA,NA,NA,NA,Countdown SS9a,NA
+3,task-,NA,S3_CountDown_r6,NA,vqd2,vqd2,NA,ipkv,NA,NA,NA,NA,NA,NA,NA,NA,NA,yt76,NA,NA,NA,NA,NA,Countdown SS9b,NA
+3,task-,NA,S3_1back_r3,NA,boh5,boh5,NA,boh5,NA,boh5,NA,NA,NA,NA,NA,NA,NA,blog,NA,NA,NA,NA,NA,1back SSnback1,NA
+3,task-,NA,S3_3back_r3,NA,rzqj,rzqj,NA,rzqj,NA,rzqj,NA,NA,NA,NA,NA,NA,NA,c67l,NA,NA,NA,NA,NA,3back SSnback2,NA
+3,checkpoint,NA,NA,NA,NA,ppak,NA,ppak,NA,ppak,NA,NA,NA,NA,NA,NA,NA,ppak,NA,NA,NA,NA,NA,Session3_+3months_Tasks_3,NA
+3,questionnaire-,NA,S3_SubjTemporalDistance_r2,NA,pwrb,pwrb,NA,pwrb,NA,pwrb,NA,NA,NA,NA,NA,NA,NA,td4p,NA,NA,NA,NA,NA,SubjectiveTemporalDistance,NA
+3,task-,NA,S3_TemporalLandmark_r3,NA,8wfk,8wfk,NA,8wfk,NA,8wfk,NA,NA,NA,NA,NA,NA,NA,hnqu,NA,NA,NA,NA,NA,Temporal landmark,NA
+3,task-,NA,S3_Phoneme_r2,NA,zmty,missing,NA,zmty,NA,zmty,NA,NA,NA,NA,NA,NA,NA,7tpj,NA,NA,NA,NA,NA,Phonemic Fluency,NA
+3,task-,NA,S3_Semantic_r2,NA,1gez,zmty,NA,1gez,NA,1gez,NA,NA,NA,NA,NA,NA,NA,rz24,NA,NA,NA,NA,NA,Semantic Fluency,NA
+3,task-,NA,S3_PastFluency_r2,NA,zwhr,zwhr,NA,zwhr,NA,zwhr,NA,NA,NA,NA,NA,NA,NA,yyb2,NA,NA,NA,NA,NA,Past Fluency,NA
+3,task-,NA,S3_FutureFluency_r2,NA,rkl6,rkl6,NA,rkl6,NA,rkl6,NA,NA,NA,NA,NA,NA,NA,4tal,NA,NA,NA,NA,NA,Future Fluency,NA
+3,task-,NA,S3_SemanticTime_r2,NA,l2es,l2es,NA,l2es,NA,l2es,NA,NA,NA,NA,NA,NA,NA,kvma,NA,NA,NA,NA,NA,Semantic Time Fluency,NA
+3,questionnaire-,NA,S3_IQ,NA,v4ak,NA,NA,omgj,NA,omgj,NA,NA,NA,NA,NA,NA,NA,5tl8,NA,NA,NA,NA,NA,03_Isolation Questionnaire,NA
+3,questionnaire-,NA,S3_PSQI-week,NA,dv84,NA,NA,dv84,NA,dv84,NA,NA,NA,NA,NA,NA,NA,swkc,NA,NA,NA,NA,NA,07b_PSQI-WEEK,NA
+3,questionnaire-,NA,S3_rMEQ,NA,NA,NA,NA,NA,NA,kovs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,04_rMEQ,NA
+3,questionnaire-,NA,S3_SelfPercept,NA,9hvd,cxhf,NA,9hvd,NA,llj9,NA,NA,NA,NA,NA,NA,NA,xqhp,NA,NA,NA,NA,NA,12_SelfPerception,NA
+3,questionnaire-,NA,S3_END,7zsd,NA,7zsd,NA,NA,NA,7zsd,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Session2_END,NA
+4_Confinement2,questionnaire-,NA,S4_ParticipantTracker,NA,3oxa,odny,NA,NA,odny,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,ParticipantTracker,NA
+4_Confinement2,branch,NA,S4_branch,NA,NA,jvd5,NA,NA,jvd5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,branch,NA
+4_Confinement2,questionnaire-,NA,S4_Welcome,NA,7j1d,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Welcome,NA
+4_Confinement2,questionnaire-,NA,S4_Instructions,NA,NA,nkrh,NA,NA,nkrh,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,General_Instructions,NA
+4_Confinement2,questionnaire-,NA,S4_Consent,NA,NA,bf7f,NA,NA,bf7f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Consent,NA
+4_Confinement2,questionnaire-,NA,S4_ConfinementTrack,NA,o8pj,oxhg,NA,NA,oxhg,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,ConfinementTracker,NA
+4_Confinement2,questionnaire-,NA,S4_IQ,NA,e4e7,7thz,NA,NA,7thz,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,03_IQ,NA
+4_Confinement2,task-,NA,S4_TemporalLandmark,NA,tkvx,a2s8,NA,NA,a2s8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Temporal_landmark,NA
+4_Confinement2,questionnaire-,NA,S4_Workday,NA,iump,74ch,NA,NA,74ch,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Workday,NA
+4_Confinement2,questionnaire-,NA,S4_SubjTemporalDistance,NA,NA,3de8,NA,NA,3de8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,SubjectiveTemporalDistance,NA
+4_Confinement2,questionnaire-,NA,S4_MCQT,NA,mzep,omgj,NA,NA,omgj,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07c_muMCQT-WEEK,NA
+4_Confinement2,questionnaire-,NA,S4_PSQI,NA,f11s,hs2b,NA,NA,hs2b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07b_PSQI-WEEK,NA
+4_Confinement2,questionnaire-,NA,S4_RetroDuration,NA,3qzs,ywwq,NA,NA,ywwq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10_Retrospective_Duration,NA
+4_Confinement2,questionnaire-,NA,S4_UCLA,NA,mjn6,yvjs,NA,NA,yvjs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,02_UCLA,NA
+4_Confinement2,questionnaire-,NA,S4_HADS,NA,nxeo,h3wo,NA,NA,h3wo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06_HADS,NA
+4_Confinement2,questionnaire-,NA,S4_END,NA,NA,mtvb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Session4_END,NA
+Control,questionnaire-,Participant_Tracker,SC_ParticipantTrack,NA,odny,odny,NA,odny,NA,odny,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,odny
+Control,questionnaire-,Redirect_Session5,SC_RedirectSession5,NA,msj7,msj7,NA,msj7,NA,msj7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,msj7
+Control,questionnaire-,Bienvenu_Ctrl_Consent,SC_Consent,NA,bf7f,bf7f,NA,bf7f,NA,bf7f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,bf7f
+Control,questionnaire-,Demographics,SC_Demographics,NA,u2ae,nyjo,NA,u2ae,NA,u2ae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,u2ae
+Control,questionnaire-,Confinement_Ctrl_Tracker,SC_ConfinementTrack,NA,oxhg,oxhg,NA,oxhg,NA,oxhg,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,oxhg
+Control,questionnaire-,General_Instructions,SC_Instructions,NA,nkrh,nkrh,NA,nkrh,NA,nkrh,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,nkrh
+Control,questionnaire-,Workday,SC_Workday_r1,NA,yeh1,yeh1,NA,yeh1,NA,yeh1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yeh1
+Control,questionnaire-,02_UCLA,SC_UCLA,NA,yvjs,yvjs,NA,yvjs,NA,yvjs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yvjs
+Control,questionnaire-,07a_PSQI,SC_PSQI,NA,omgj,omgj,NA,omgj,NA,omgj,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,omgj
+Control,questionnaire-,06_HADS,SC_HADS_r1,NA,h3wo,h3wo,NA,h3wo,NA,h3wo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,h3wo
+Control,task-,Temporal_landmark,SC_TemporalLandmark_r1,NA,a2s8,a2s8,NA,a2s8,NA,a2s8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,a2s8
+Control,questionnaire-,12_SelfPercept,SC_SelfPercept,NA,cxhf,cxhf,NA,cxhf,NA,cxhf,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,cxhf
+Control,questionnaire-,07c_muMCQT,SC_MCQT,NA,yn6b,yn6b,NA,yn6b,NA,yn6b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yn6b
+Control,questionnaire-,05_ZTPI,SC_ZTPI,NA,dz1u,dz1u,NA,dz1u,NA,dz1u,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,dz1u
+Control,questionnaire-,03_IQ,SC_IQ,NA,7thz,7thz,NA,7thz,NA,7thz,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7thz
+Control,questionnaire-,09_BFI-10,SC_BFI,NA,bwqb,bwqb,NA,bwqb,NA,bwqb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,bwqb
+Control,questionnaire-,08_ASQ,SC_ASQ,NA,3r1x,3r1x,NA,3r1x,NA,3r1x,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3r1x
+Control,questionnaire-,04_rMEQ_Chronotype,SC_rMEQ,NA,y28k,y28k,NA,y28k,NA,y28k,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,y28k
+Control,questionnaire-,10_Retrospective_Duration,SC_RetroDuration,NA,ywwq,ywwq,NA,ywwq,NA,ywwq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,ywwq
+Control,checkpoint,Control_Qu01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Control,questionnaire-,Workday,SC_Workday_r2,NA,3b4u,3b4u,NA,3b4u,NA,3b4u,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3b4u
+Control,questionnaire-,11_ShortSleepQu,SC_ShortSleep_r1,NA,1r6m,1r6m,NA,1r6m,NA,1r6m,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1r6m
+Control,task-,SelfPreference,SC_SelfPref_r1,NA,alpe,alpe,NA,alpe,NA,alpe,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,alpe
+Control,task-,DelayDiscount,SC_DelayDiscount_r1,NA,bjox,bjox,NA,bjox,NA,bjox,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,bjox
+Control,task-,Tapping_Visual,SC_TapVis_r1,NA,ijae,ijae,NA,ijae,NA,ijae,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,ijae
+Control,task-,Duration_Production_Metacog,SC_Metacog_r1,NA,ctdw,ctdw,NA,ctdw,NA,ctdw,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,ctdw
+Control,task-,Tapping,SC_Tapping_r1,NA,tmq7,tmq7,NA,tmq7,NA,tmq7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tmq7
+Control,task-,ImplicitTiming,SC_Implicit_r1,NA,e3ny,e3ny,NA,e3ny,NA,e3ny,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,e3ny
+Control,task-,1back_SS_nback1,SC_1back_r1,NA,l4v8,l4v8,NA,l4v8,NA,l4v8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,l4v8
+Control,task-,3back_SS_nback2,SC_3back_r1,NA,yeyq,yeyq,NA,yeyq,NA,yeyq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yeyq
+Control,checkpoint,Control_Tasks_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Control,questionnaire-,SubjectiveTemporalDistance,SC_SubjTemporalDistance,NA,3de8,3de8,NA,3de8,NA,3de8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3de8
+Control,questionnaire-,13_FFA,SC_FFA,NA,anhb,anhb,NA,anhb,NA,anhb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,anhb
+Control,task-,Temporal_landmark,SC_TemporalLandmark_r2,NA,165l,165l,NA,165l,NA,165l,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,165l
+Control,task-,Semantic_Fluency,SC_Semantic,NA,e2m7,e2m7,NA,e2m7,NA,e2m7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,e2m7
+Control,task-,Semantic_Time_Fluency,SC_SemanticTime,NA,r67b,r67b,NA,r67b,NA,r67b,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,r67b
+Control,task-,Past_Fluency,SC_PastFluency,NA,6q3z,6q3z,NA,6q3z,NA,6q3z,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6q3z
+Control,task-,Future_Fluency,SC_FutureFluency,NA,6e6k,6e6k,NA,6e6k,NA,6e6k,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6e6k
+Control,checkpoint,Control_Qu02,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Control,questionnaire-,Workday,SC_Workday_r3,NA,kuiq,kuiq,NA,kuiq,NA,kuiq,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,kuiq
+Control,questionnaire-,11_ShortSleepQu,SC_ShortSleep,NA,tti8,tti8,NA,tti8,NA,tti8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,tti8
+Control,task-,Tapping_Visual,SC_TapVis_r2,NA,q1jh,q1jh,NA,q1jh,NA,q1jh,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,q1jh
+Control,task-,ImplicitTiming,SC_Implicit_r2,NA,7v2r,7v2r,NA,7v2r,NA,7v2r,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7v2r
+Control,task-,Duration_Production_Metacog,SC_Metacog_r2,NA,yc5s,yc5s,NA,yc5s,NA,yc5s,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yc5s
+Control,task-,DelayDiscount,SC_DelayDiscount_r2,NA,8ecw,8ecw,NA,8ecw,NA,8ecw,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8ecw
+Control,task-,Tapping,SC_Tapping_r2,NA,ctos,ctos,NA,ctos,NA,ctos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,ctos
+Control,task-,SelfPreference,SC_SelfPref_r2,NA,xwfu,xwfu,NA,xwfu,NA,xwfu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,xwfu
+Control,task-,1back_SS_nback2,SC_1back_r2,NA,4vn8,4vn8,NA,4vn8,NA,4vn8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4vn8
+Control,task-,3back_SS_nback1,SC_3back_r2,NA,56og,56og,NA,56og,NA,56og,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,56og
+Control,checkpoint,Control_Tasks_2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Control,task-,3back_SS_nback3,SC_3back_r3,NA,x1k6,am86,NA,x1k6,NA,x1k6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,x1k6
+Control,task-,Tapping,SC_Tapping_r3,NA,bw96,h194,NA,bw96,NA,bw96,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,bw96
+Control,task-,Duration_Production_Metacog,SC_Metacog_r3,NA,p6qp,cthv,NA,p6qp,NA,p6qp,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,p6qp
+Control,task-,1back_SS_nback3,SC_1back_r3,NA,kqxx,eqq7,NA,kqxx,NA,kqxx,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,kqxx
+Control,task-,ImplicitTiming,SC_Implicit_r3,NA,np3t,gvnk,NA,np3t,NA,np3t,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,np3t
+Control,task-,SelfPreference,SC_SelfPref_r3,NA,d8cr,5nlh,NA,d8cr,NA,d8cr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,d8cr
+Control,task-,Tapping_Visual,SC_TapVis_r3,NA,pj65,n5j9,NA,pj65,NA,pj65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,pj65
+Control,task-,DelayDiscount,SC_DelayDiscount_r3,NA,ed38,rwd6,NA,ed38,NA,ed38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,ed38
+Control,questionnaire-,Session5_CTRL_END,SC_END,NA,7zsd,7zsd,NA,7zsd,NA,7zsd,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7zsd
+Control,checkpoint,Control_END,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
