@@ -73,7 +73,7 @@ add_SubjectiveConfinementDuration <- function(d){
     mutate(is1 = Local_Date < Local_Date_CT2,
            is2 = Local_Date >= Local_Date_CT2,
            is3 = Local_Date >= Local_Date_CT3,
-           is4 = Local_Date >= Local_Date_CT4,) %>%
+           is4 = Local_Date >= Local_Date_CT4) %>%
     mutate(ConfDuration_1 = as.numeric(ConfDuration_CT1),
            Days_since_CT1 = as.numeric(lubridate::as.duration(lubridate::interval(start = Local_Date_CT1, end = Local_Date)),unit = 'days'),
            ConfDuration_1 = ConfDuration_1 + slope1 * Days_since_CT1,
@@ -87,9 +87,9 @@ add_SubjectiveConfinementDuration <- function(d){
            Days_since_CT4 = as.numeric(lubridate::as.duration(lubridate::interval(start = Local_Date_CT4, end = Local_Date)),unit = 'days'),
            ConfDuration_4 = ConfDuration_4 + slope4 * Days_since_CT4,
            ConfDuration = ifelse(is1, ConfDuration_1,
-                                 ifelse(is2,ConfDuration_2,
-                                        ifelse(is3,ConfDuration_3,
-                                               ifelse(is4,ConfDuration_4,NA))))) %>%
+                                 ifelse(is2, ConfDuration_2,
+                                        ifelse(is3, ConfDuration_3,
+                                               ifelse(is4, ConfDuration_4, NA))))) %>%
     select(-(Local_Date_CT1:Days_since_CT4))
   return(tmp)
 }
