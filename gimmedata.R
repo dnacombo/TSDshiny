@@ -19,6 +19,75 @@
 #     You should have received a copy of the GNU General Public License
 #     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
+
+
+gimmeRdata <- function(DataDir = getwd(), UniqueName = '[^_]+', 
+                       ExperimentID = '[0-9]{5}', Country = '[^_]+', 
+                       Session = 'S[^_]+', Run = '[^_]*', ...,
+                       progress = F,
+                       fast = T,
+                       verbose = T,
+                       justlistfiles = F, 
+                       as.list = F)
+  {
+  
+
+  
+  if (as.list) fast = T
+  if (length(UniqueName) > 1){
+    UniqueName <- paste0('(',paste(UniqueName,collapse = '|'),')')
+  }
+  if (length(Country) > 1) {
+    Country <- paste0('(',paste(Country,collapse = '|'),')')
+  }
+  if (length(Session) > 1) {
+    Session <- paste0('(',paste(Session,collapse = '|'),')')
+  }
+  
+  fs <- list.files(path = DataDir, pattern = paste0('^TSD_',Country,'_',Session,'_',UniqueName,'.RData'), full.names = T, recursive = F)
+  if (justlistfiles) return(fs)
+  if (verbose) {
+    cat(paste0('Loading ', humanReadable(sum(file.info(fs)$size)), ' from ', length(fs), ' files.\n'))
+  }
+  if (length(fs) == 0) return(tibble())
+  if (progress) {
+    pb <- txtProgressBar(min = 0, max = length(fs), initial = 0, char = "=",
+                         width = 40, style = 3)
+    i <- 0
+  }
+  if (fast) {
+    # first load all as a list then bind rows in one table
+    d <- lapply(fs,
+                function(x){
+                  if (progress) {
+                    i <<- i + 1
+                    setTxtProgressBar(pb,i)
+                  }
+                  get(load(x)) %>%
+                    dplyr::filter(grepl(!!ExperimentID,Experiment_ID),
+                           grepl(!!Run,Run))
+                })
+    if (as.list) return(d)
+    D <- bind_rows(d)
+  } else {
+    D <- tibble()
+    for (f in fs) {
+      load(f)
+      D <- d %>%
+        filter(grepl(!!ExperimentID,Experiment_ID),
+               grepl(!!Run,Run)) %>%
+        bind_rows(D)
+      if (progress) {
+        i <- i + 1
+        setTxtProgressBar(pb,i)
+      }
+    }
+  }
+  if (verbose) {
+    cat(paste0('Done.\n'))
+  }
+  return(D)
+}
 humanReadable <- function (x, units = "auto", standard = c("IEC", "SI", "Unix"), 
                            digits = 1, width = NULL, sep = " ", justify = c("right", 
                                                                             "left")) 
@@ -84,65 +153,4 @@ humanReadable <- function (x, units = "auto", standard = c("IEC", "SI", "Unix"),
   else paste(format(trimws(retval[1, ]), justify = justify[1]), 
              format(trimws(retval[2, ]), justify = justify[2]), sep = sep)
 }
-
-gimmeRdata <- function(DataDir = getwd(), UniqueName = '[^_]+', 
-                       ExperimentID = '[0-9]{5}', Country = '[^_]+', 
-                       Session = 'S[^_]+', Run = '[^_]*', ...,
-                       progress = F,
-                       fast = T,
-                       verbose = T)
-  {
-  
-  
-  if (length(UniqueName) > 1){
-    UniqueName <- paste0('(',paste(UniqueName,collapse = '|'),')')
-  }
-  if (length(Country) > 1) {
-    Country <- paste0('(',paste(Country,collapse = '|'),')')
-  }
-  if (length(Session) > 1) {
-    Session <- paste0('(',paste(Session,collapse = '|'),')')
-  }
-  
-  
-  fs <- list.files(path = DataDir, pattern = paste0('^TSD_',Country,'_',Session,'_',UniqueName,'.RData'), full.names = T, recursive = F)
-  if (verbose) {
-    cat(paste0('Loading ', humanReadable(sum(file.info(fs)$size)), ' from ', length(fs), ' files.\n'))
-  }
-  if (length(fs) == 0) return(tibble())
-  if (progress) {
-    pb <- txtProgressBar(min = 0, max = length(fs), initial = 0, char = "=",
-                         width = 40, style = 3)
-    i <- 0
-  }
-  if (fast) {
-    d <- sapply(fs,
-                function(x){
-                  if (progress) {
-                    i <<- i + 1
-                    setTxtProgressBar(pb,i)
-                  }
-                  mget(load(x))
-                })
-    D <- bind_rows(d)%>%
-      filter(grepl(!!ExperimentID,Experiment_ID),
-             grepl(!!Run,Run))
-    
-  } else {
-    D <- tibble()
-    for (f in fs) {
-      load(f)
-      D <- d %>%
-        filter(grepl(!!ExperimentID,Experiment_ID),
-               grepl(!!Run,Run)) %>%
-        bind_rows(D)
-      if (progress) {
-        i <- i + 1
-        setTxtProgressBar(pb,i)
-      }
-    }
-  }
-  return(D)
-}
-
 source('add_covariates.R')
