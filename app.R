@@ -148,8 +148,6 @@ server <- function(input, output) {
         t <- currentData() %>%
             unite(col = 'filt', Trial_Number, Question_Key, na.rm = T) %>%
             filter(filt %in% c('END TASK','END QUESTIONNAIRE')) %>%
-            group_by(Country,PID,Session, Unique_Name) %>%
-            slice(1) %>%
             group_by(Country_Name,Session, Unique_Name) %>%
             summarize(N = n(),
                       meanAge = mean(Age, na.rm = T),
