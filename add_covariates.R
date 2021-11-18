@@ -56,7 +56,7 @@ add_Demographics <- function(d) {
   load(file = file.path('data','Demographics.RData'))
   
   d %>% 
-    left_join(Demographics %>% select(-Session,-Country), by = 'PID')
+    left_join(Demographics %>% select(-Session,-Country, -UTC_Date), by = 'PID')
 }
 
 add_SubjectiveConfinementIndices <- function(d){
