@@ -79,8 +79,8 @@ ui <- fluidPage(
                                  selected = unique(fs$Session)),
                      checkboxGroupInput(inputId = 'ToAdd',
                                         label = 'Add covariates...',
-                                        choices = c('Demographics','Stringency Index','Mobility Indices', 'Subjective Confinement Indices', 'Subjective Confinement Duration'),
-                                        selected = c('Demographics','Stringency Index')),
+                                        choices = c('Stringency Index','Mobility Indices', 'Subjective Confinement Indices', 'Subjective Confinement Duration'),
+                                        selected = NULL),
                      actionButton(inputId = "readData", label = "Update", icon = icon('redo')),
                      br(),br(),
                      strong('Download'),br(),
@@ -121,11 +121,9 @@ server <- function(input, output) {
         if (!'Question_Key' %in% names(d)) d$Question_Key = NA
         
         if (nrow(d) == 0) {return(d)}
+        d <- add_Demographics(d)
         if (any(str_detect(input$ToAdd, 'Stringency Index'))) {
             d <- add_StringencyIndex(d)
-        }
-        if (any(str_detect(input$ToAdd, 'Demographics'))) {
-            d <- add_Demographics(d)
         }
         if (any(str_detect(input$ToAdd, 'Mobility Indices'))) {
             d <- add_Mobility(d)
